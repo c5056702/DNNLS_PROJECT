@@ -1,0 +1,26 @@
+Epoch 1 summary:
+  train_loss=0.3878
+  train_cos_img=0.7934
+  train_cos_txt=0.8189
+  val_loss_img=0.1977
+  val_loss_txt=0.1603
+  val_cos_img=0.8023
+  val_cos_txt=0.8397
+
+Epoch 2 summary (graph->text only):
+  train_loss=0.4445
+  train_cos_img=0.8073
+  train_cos_txt=0.7483
+  val_loss_img=0.1927
+  val_loss_txt=0.2460
+  val_cos_img=0.8073
+  val_cos_txt=0.7540
+
+Epoch 3 summary (graph->text only):
+  train_loss=0.4899
+  train_cos_img=0.8112
+  train_cos_txt=0.6989
+  val_loss_img=0.1915
+  val_loss_txt=0.3313
+  val_cos_img=0.8085
+  val_cos_txt=0.6687
